@@ -7,7 +7,7 @@ Google Maps ist ein Online-Kartendienst des US-amerikanischen Unternehmens Googl
 Mit der API ist es möglich Maps-Bild auf Webseiten einzubetten.
 
 ## Was sind die wesentlichen Elemente des Domänenmodells?
-
+[Denisa]
 
 ## Was sind wesentliche Elemente des Vertrages: z.B. Kosten, Datenschutz, Nutzungsrechte?
 
@@ -22,7 +22,7 @@ Apps oder Websites, deren Download oder deren Verwendung für Endnutzer oder Org
 Mit die Nutzung von Google Maps können Informationen über die Benutzung der API (einschliesslich Ihrer IP-Adresse) an einen Server von Google in den USA übertragen und dort gespeichert werden. Google wird die durch Maps gewonnenen Informationen gegebenenfalls an Dritte übertragen.
 
 ### Nutzungsrechte
-
+[Denisa]
 
 ## URIs für Dokumentation und Endpunkt:
 
@@ -30,3 +30,4 @@ Mit die Nutzung von Google Maps können Informationen über die Benutzung der AP
 - Dokumentation: https://developers.google.com/maps/documentation/
 
 ## Detailliertere Beschreibung von einigen zentralen Funktionen des Service:
+[Philipp]
