@@ -1,6 +1,6 @@
 # REST Modellierung
 
-##Methoden:
+## Methoden:
 
 - GET: Abfrage von Informationen (Read)
 - POST: Erstellen von Informationen (Create)
@@ -9,5 +9,11 @@
 
 
 | Ressource | Methode | Semantik |
-| ------ | ------ | ------ |
+| ------------ | ------------ | ------------ |
+| /meeting | POST | Erstellt ein Meeting und gibt die ID zurück |
+| /meeting/{id} | PUT | Sendet Aktuelle Standort Information |
+| /meeting/{id} | DELETE | Löscht das Meeting |
+| /meeting/{id} | GET | Gibt die Aktuelle position |
+
+
 
