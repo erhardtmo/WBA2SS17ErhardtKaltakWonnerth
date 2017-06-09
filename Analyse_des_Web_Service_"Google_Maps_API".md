@@ -30,4 +30,9 @@ Mit die Nutzung von Google Maps können Informationen über die Benutzung der AP
 - Dokumentation: https://developers.google.com/maps/documentation/
 
 ## Detailliertere Beschreibung von einigen zentralen Funktionen des Service:
-[Philipp]
+# Standortdaten abrufen
+Die Standortdaten werden abgerufen und müssen auf einer Karten als Punkt wiedergegeben werde. Mehrere User können auf ein und den selben Standort gleichzeitig zugreifen.
+
+# Standortdaten speichern
+Beliebte Standorte bzw. gespottete Personen können gespiechert werden, sodass schneller auf sie zugegriffen werden kann.
+
